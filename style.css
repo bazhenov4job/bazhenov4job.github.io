@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    height: 30px;
+    color: purple;
+}
+header {
+    color: black;
+    background-color: rgb(255, 40, 191);
+    border-radius: 20px;
+    padding: 10px;
+}
+a {
+    color: rgb(25, 209, 255);
+}
+footer {
+    background-color: aqua;
+}
+img {
+    background-color: aqua;
+    border-radius: 10px;
+}
+p {
+    background-color: pink;
+    border-radius: 10px;
+}
+.home {
+    height: 210px;
+}
