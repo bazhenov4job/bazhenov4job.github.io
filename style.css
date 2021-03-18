@@ -1,30 +1,85 @@
 body {
     font-family: sans-serif;
+    padding: 20px;
 }
-h1 {
-    height: 30px;
-    color: purple;
+
+header{
+        background-color:#87CEFA;
+        border-radius: 15px;
+        border: 3px solid #0000CD;
 }
-header {
-    color: black;
-    background-color: rgb(255, 40, 191);
-    border-radius: 20px;
+
+.party{
+        border: 2px solid #1E90FF;
+}
+
+h1{
+    color: #191970;
+}
+
+footer p{
+           color: #4B0082;
+           background-color:#DDA0DD;
+           border-radius: 13px;
+           margin: 15px;
+}
+
+.contackt{
+           color:#191970;   
+}
+
+nav{
+     background-color:#20B2AA;
+    
+}
+
+nav a{
+        color:darkmagenta;
+        text-decoration:none;
+        border: 2px solid #C71585;
+        border-radius: 10px;
+        background-color:#FFC0CB;
+        font-size: 15px;
+        margin: 10px;
+        padding:5px;
+}
+
+.pi{
+      background-color:#FFFF00;
+      border: 5px solid #FF4500;
+      border-radius: 15px;
+      margin: 10px;
+      padding: 10px;
+}
+
+.ip{
+     background-color:#FF4500;
+     border: 5px solid #FFFF00;
+     border-radius: 15px;
+     margin: 10px;
+     padding: 10px;
+}
+
+p{
+    font-size: 23px;
+}
+
+h2{
+    color: #00FFFF;
+    background-color: #000080;
+}
+
+a{
+    background-color:#00FFFF;
+    color:#FFA500;
+    font-size: 15px;
+    text-decoration: none;
+    border:3px solid #FF7F50;
+    border-radius:15px;
+    marging: 10px;
     padding: 10px;
 }
-a {
-    color: rgb(25, 209, 255);
-}
-footer {
-    background-color: aqua;
-}
-img {
-    background-color: aqua;
-    border-radius: 10px;
-}
-p {
-    background-color: pink;
-    border-radius: 10px;
-}
-.home {
-    height: 210px;
-}
+
+
+
+
